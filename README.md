@@ -3,17 +3,17 @@
 
 #### How does it work ?
 
-1 - He'll store all the paths to the files that are in the TV Show folder.
+1 - it'll store all the paths to the files that are in the TV Show folder.
 
 2 - The software will check that the subtracks have not already been extracted.
 
-3 - If so, he'll extract them.
+3 - If so, it'll extract them.
 
-4 - Everytime a sub is extract, he'll check in it for the word.
+4 - Everytime a sub is extract, it'll check in it for the word.
 
-5 - If he find it, he'll call an export from the start of the subtitle (or the previous if you activated it) and for the length set in the config.cfg
+5 - If it find it, it'll call an export from the start of the subtitle (or the previous if you activated it) and for the length set in the config.cfg
 
-6 - And he'll go to the next subtrack.
+6 - And it'll go to the next subtrack.
 
 #### Ressources/config.cfg
 
